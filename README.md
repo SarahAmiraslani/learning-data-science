@@ -10,9 +10,9 @@ Files included:
 		- **Python Crash Course Notes**: contains my notes on [Python Crash Course A Hands-On, Project-Based Introduction to Programming](https://www.amazon.com/Python-Crash-Course-Hands-Project-Based/dp/1593276036). 
 	- **Machine Learning**
 	- **Python Data Science Handbook** contains my notes on [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/).
-			- `NumPy.ipynb`
-			- `Pandas.ipynb`
-			- `Machine Learning.ipynb`
-			- `Visualization.ipynb`
+		- `NumPy.ipynb`
+		- `Pandas.ipynb`
+		- `Machine Learning.ipynb`
+		- `Visualization.ipynb`
 	- `Useful functions for data science.ipynb`
 - `Web scraping.ipynb`
