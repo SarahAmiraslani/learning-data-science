@@ -1,6 +1,6 @@
 # Learning
 
-This repository contains notes I have taken when studying python and data science. Hopefully they will will be of use to someone who is starting their data science journey. This repository is updated regularly. 
+This repository contains notes I have taken when studying python and data science. Hopefully they will be of use to someone who is starting their data science journey. This repository is updated regularly. 
 
 Files included: 
 - data 
